@@ -1,6 +1,8 @@
 # PicoROM
 PicoROM is an 8-bit ROM emulator in a DIP-32 compatible form factor. It's main use case (the reason I made it) is for rapid iteration when experimenting with arcade hardware. The PicoROM can emulate ROMs up to 2MBit (256Kbytes) in size and speeds of 100ns. 
 
+My TODO some day: Add a branch for 2732A layout, optionally w/ multichip selector for 80s Turbo Regal, etc
+
 ![The PicoROM in use](docs/in_use.jpg)
 
 ## Hardware
